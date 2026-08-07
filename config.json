@@ -4,5 +4,10 @@
     "avatarUrl":"https://avatars.githubusercontent.com/u/145846734?v=4&size=64",
     "GMEEK_VERSION":"last",
     "startSite":"08/07/2026",
-    "bottomText":"来自陨石的胡言乱语！"
+    "bottomText":"来自陨石的胡言乱语！",
+    "i18n":"CN",
+    "UTC":9,
+    "urlMode":"pinyin",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+    "script":"<script>(function(){function c(){var e=document.getElementById('postBody');if(!e)return;var t=e.innerText||'';var n=(t.match(/[\\u4e00-\\u9fa5\\u3040-\\u30ff]/g)||[]).length+(t.match(/[a-zA-Z0-9]+/g)||[]).length;var d=document.createElement('div');d.style.cssText='text-align:center;font-size:12px;opacity:.6;margin-top:8px';d.textContent='本文共 '+n+' 字';var f=document.querySelector('footer')||document.getElementById('footer');(f||e.parentNode).appendChild(d)}document.readyState==='loading'?document.addEventListener('DOMContentLoaded',c):c()})()</script>"
 }
